@@ -2,6 +2,7 @@
 
 ## git config
 --global user.name"(내 이름)"
+
 --global user.email"(내 메일주소)"
 
 
