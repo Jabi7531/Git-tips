@@ -23,8 +23,7 @@
 
 ## git push
 1. git push --all
-
-  - 모든 브랜치를 푸쉬
+  + 모든 브랜치를 푸쉬
 
 ## git pull
 1. git pull origin <U>브랜치 이름</U>
