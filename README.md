@@ -15,4 +15,4 @@
 ## git log
 
 
-## git checkout -b (브랜치 이름)
+## git checkout -b (**브랜치 이름**)
