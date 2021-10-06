@@ -1,7 +1,7 @@
 ## git config
-1. git config --global user.name"<u>내 이름</u>"
+1. git config --global user.name "<u>내 이름</u>"
 
-1. git config --global user.email"<u>내 메일주소</u>"
+1. git config --global user.email "<u>내 메일주소</u>"
 
 
 ## git status
