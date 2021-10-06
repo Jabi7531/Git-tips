@@ -1,24 +1,24 @@
 ## git config
-1. git config --global user.name"(내 이름)"
+1. git config --global user.name"<u>내 이름</u>"
 
-1. git config --global user.email"(내 메일주소)"
+1. git config --global user.email"<u>내 메일주소</u>"
 
 
 ## git status
 
 
-## git commit "(내용)"
+## git commit "<u>내용</u>"
 
 
 ## git log
 
 
 ## git checkout
-1. git checkout -b <U>브랜치 이름</U>
+1. git checkout -b <u>브랜치 이름</u>
 
 
 ## git merge
-1. git merge <U>브랜치 이름</U>
+1. git merge <u>브랜치 이름</u>
 
 
 ## git push
@@ -26,4 +26,4 @@
     + 모든 브랜치를 푸쉬
 
 ## git pull
-1. git pull origin <U>브랜치 이름</U>
+1. git pull origin <u>브랜치 이름</u>
