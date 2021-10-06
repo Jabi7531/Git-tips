@@ -23,6 +23,7 @@
 
 ## git push
 1. git push --all
+
   - 모든 브랜치를 푸쉬
 
 ## git pull
